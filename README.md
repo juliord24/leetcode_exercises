@@ -35,6 +35,14 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |

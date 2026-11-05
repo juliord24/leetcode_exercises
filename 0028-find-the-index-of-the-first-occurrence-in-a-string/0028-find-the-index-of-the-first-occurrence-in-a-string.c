@@ -1,9 +1,10 @@
 int strStr(char* haystack, char* needle) {
+    int len1 = strlen(needle);
     int j = 0;
     for (int i = 0; haystack[i] != '\0'; i++) {
         if (haystack[i] == needle[j]) {
             j++;
-            if (j == strlen(needle)) {
+            if (j == len1) {
                 return i - (j - 1);
             }
         } else {
