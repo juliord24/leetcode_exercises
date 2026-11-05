@@ -11,6 +11,7 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/juliord24/leetcode_exercises/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/juliord24/leetcode_exercises/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
@@ -24,5 +25,22 @@ Created using [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/juliord24/leetcode_exercises/tree/master/1894-merge-strings-alternately) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juliord24/leetcode_exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
